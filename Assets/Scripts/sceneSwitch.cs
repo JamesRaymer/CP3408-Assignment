@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class LevelScript : MonoBehaviour
+public class sceneSwitch : MonoBehaviour
 {
     public void LoadStartMenu()
     {
